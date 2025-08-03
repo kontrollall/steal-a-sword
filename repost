@@ -2,7 +2,7 @@
 local Library = loadstring(Game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/wizard"))()
 local Window = Library:NewWindow("Free Sworld")
  
-local Tab = Window:NewSection("Credits: Lyxx")
+local Tab = Window:NewSection("Credits: TGMANKASKE")
  
 Tab:CreateButton("Mystic Reaper", function()
 print("NIGGER")
